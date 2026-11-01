@@ -137,6 +137,7 @@
   },
   "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/1793575923_Vodu.ipa",
   "icon": "files/img/1793575925_icon.png",
-  "shots": []
+  "shots": [],
+  "orient": "n"
  }
 ]
