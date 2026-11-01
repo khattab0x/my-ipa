@@ -30,7 +30,9 @@
   },
   "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/1793569639_Esign.ipa",
   "icon": "files/img/1793570852_4461.jpg",
-  "shots": [],
+  "shots": [
+   "files/img/1793571092_d4b1.jpg"
+  ],
   "orient": "h"
  },
  {
