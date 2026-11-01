@@ -31,5 +31,21 @@
   "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/1793569639_Esign.ipa",
   "icon": "files/img/1793569641_icon.png",
   "shots": []
+ },
+ {
+  "n": "الصافرة",
+  "c": "o",
+  "id": "u1793569915",
+  "v": "",
+  "ver": "v1.0",
+  "co": "#3a5a8c",
+  "mb": 7.21,
+  "d": {
+   "ar": "تطبيق الصافرة.",
+   "en": "الصافرة app."
+  },
+  "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/1793569911___.ipa",
+  "icon": "files/img/1793569913_icon.png",
+  "shots": []
  }
 ]
