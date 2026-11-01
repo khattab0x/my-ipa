@@ -15,5 +15,21 @@
   "icon": "files/img/1793566463_6158.jpg",
   "shots": [],
   "orient": "n"
+ },
+ {
+  "n": "Cinemana ✦ HUB",
+  "c": "o",
+  "id": "u1793569015",
+  "v": "",
+  "ver": "v5.0.0",
+  "co": "#1a9c4a",
+  "mb": 8.49,
+  "d": {
+   "ar": "تطبيق Cinemana ✦ HUB.",
+   "en": "Cinemana ✦ HUB app."
+  },
+  "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/1793569009_Cinemana___HUB__5.0.0_.ipa",
+  "icon": "files/img/1793569013_icon.png",
+  "shots": []
  }
 ]
