@@ -102,5 +102,21 @@
   "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/1793572148_Tiktokbanner.ipa",
   "icon": "files/img/1793572152_icon.png",
   "shots": []
+ },
+ {
+  "n": "Beegram",
+  "c": "p",
+  "id": "389801252",
+  "v": "Instagram, Inc.",
+  "ver": "v453.0.0",
+  "co": "#4f8a3c",
+  "mb": 375.08,
+  "d": {
+   "ar": "Little moments lead to big friendships. Share yours on Instagram. \n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and pos",
+   "en": "Little moments lead to big friendships. Share yours on Instagram. \n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and pos"
+  },
+  "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/1793575139_Beegram_3.8.1.ipa",
+  "icon": "files/img/1793575144_icon.png",
+  "shots": []
  }
 ]
