@@ -13,6 +13,7 @@
   },
   "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/1793567132___.ipa",
   "icon": "files/img/1793566463_6158.jpg",
-  "shots": []
+  "shots": [],
+  "orient": "v"
  }
 ]
