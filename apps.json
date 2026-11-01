@@ -122,5 +122,21 @@
    "files/img/1793575290_7145.jpg"
   ],
   "orient": "v"
+ },
+ {
+  "n": "Vodu",
+  "c": "o",
+  "id": "u1793575929",
+  "v": "",
+  "ver": "v7.0.9",
+  "co": "#7a3fd1",
+  "mb": 39.03,
+  "d": {
+   "ar": "تطبيق Vodu.",
+   "en": "Vodu app."
+  },
+  "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/1793575923_Vodu.ipa",
+  "icon": "files/img/1793575925_icon.png",
+  "shots": []
  }
 ]
