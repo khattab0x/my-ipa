@@ -30,6 +30,7 @@
   },
   "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/1793569009_Cinemana___HUB__5.0.0_.ipa",
   "icon": "files/img/1793569013_icon.png",
-  "shots": []
+  "shots": [],
+  "orient": "n"
  }
 ]
