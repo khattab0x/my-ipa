@@ -15,5 +15,21 @@
   "icon": "files/img/1793569013_icon.png",
   "shots": [],
   "orient": "n"
+ },
+ {
+  "n": "ESign",
+  "c": "o",
+  "id": "u1793569643",
+  "v": "",
+  "ver": "v5.0.2",
+  "co": "#14bf96",
+  "mb": 7.17,
+  "d": {
+   "ar": "تطبيق ESign.",
+   "en": "ESign app."
+  },
+  "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/1793569639_Esign.ipa",
+  "icon": "files/img/1793569641_icon.png",
+  "shots": []
  }
 ]
