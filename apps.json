@@ -117,6 +117,10 @@
   },
   "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/1793575139_Beegram_3.8.1.ipa",
   "icon": "files/img/1793575144_icon.png",
-  "shots": []
+  "shots": [
+   "files/img/1793575289_4df6.jpg",
+   "files/img/1793575290_7145.jpg"
+  ],
+  "orient": "v"
  }
 ]
