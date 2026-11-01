@@ -68,6 +68,10 @@
   },
   "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/1793571805_iQTube_1.2.ipa",
   "icon": "files/img/1793571808_icon.png",
-  "shots": []
+  "shots": [
+   "files/img/1793571923_0e06.jpg",
+   "files/img/1793571923_fd37.jpg"
+  ],
+  "orient": "h"
  }
 ]
