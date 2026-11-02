@@ -162,6 +162,7 @@
   },
   "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/1793589574_Filza_Mod__1.0.2_.ipa",
   "icon": "files/img/1793589576_icon.png",
-  "shots": []
+  "shots": [],
+  "orient": "n"
  }
 ]
