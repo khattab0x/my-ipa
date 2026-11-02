@@ -164,5 +164,20 @@
   "icon": "files/img/1793589885_icon.png",
   "shots": [],
   "orient": "n"
+ },
+ {
+  "n": "iQTele",
+  "c": "soc",
+  "v": "Telegram FZ-LLC",
+  "ver": "v13.1.1",
+  "co": "#2a6fd1",
+  "mb": 76.9,
+  "d": {
+   "ar": "Pure instant messaging — simple, fast, secure, and synced across all your devices. One of the top 5 most downloaded apps in the world with over 1 billion active users.\n\nFAST: Telegram is the fastest m",
+   "en": "Pure instant messaging — simple, fast, secure, and synced across all your devices. One of the top 5 most downloaded apps in the world with over 1 billion active users.\n\nFAST: Telegram is the fastest m"
+  },
+  "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/1793590331_iQTele_1.5.ipa",
+  "icon": "files/img/1793590334_icon.png",
+  "shots": []
  }
 ]
