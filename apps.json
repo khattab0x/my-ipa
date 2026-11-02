@@ -178,6 +178,7 @@
   },
   "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/1793590331_iQTele_1.5.ipa",
   "icon": "files/img/1793590334_icon.png",
-  "shots": []
+  "shots": [],
+  "orient": "n"
  }
 ]
