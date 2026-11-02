@@ -34,22 +34,6 @@
   "orient": "n"
  },
  {
-  "n": "الصافرة",
-  "c": "o",
-  "v": "",
-  "ver": "v1.0",
-  "co": "#3a5a8c",
-  "mb": 7.21,
-  "d": {
-   "ar": "هذا التطبيق مخصص لمشاهدة مباريات كرة القدم والبطولات الأوروبية ودوري أبطال أوروبا، \nعبر خوادم قوية، مع صيانة دورية وتحديث مستمر للسيرفرات لضمان أفضل أداء.",
-   "en": "الصافرة app."
-  },
-  "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/1793569911___.ipa",
-  "icon": "files/img/1793569913_icon.png",
-  "shots": [],
-  "orient": "n"
- },
- {
   "n": "iQTube",
   "c": "p",
   "v": "Google",
@@ -180,20 +164,5 @@
   "icon": "files/img/1793589885_icon.png",
   "shots": [],
   "orient": "n"
- },
- {
-  "n": "الصافرة",
-  "c": "o",
-  "v": "",
-  "ver": "v1.0",
-  "co": "#d92f3a",
-  "mb": 7.21,
-  "d": {
-   "ar": "تطبيق الصافرة.",
-   "en": "الصافرة app."
-  },
-  "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/1793590241___.ipa",
-  "icon": "files/img/1793590243_icon.png",
-  "shots": []
  }
 ]
