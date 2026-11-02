@@ -164,5 +164,20 @@
   "icon": "files/img/1793589576_icon.png",
   "shots": [],
   "orient": "n"
+ },
+ {
+  "n": "Messenger",
+  "c": "soc",
+  "v": "Meta Platforms, Inc.",
+  "ver": "v561.0.0",
+  "co": "#14bf96",
+  "mb": 98.38,
+  "d": {
+   "ar": "Messenger is a free messaging app that helps you connect with anyone, anywhere. Stay in touch with your friends and family, explore your interests with people like you, build your community, and share",
+   "en": "Messenger is a free messaging app that helps you connect with anyone, anywhere. Stay in touch with your friends and family, explore your interests with people like you, build your community, and share"
+  },
+  "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/1793589883_Messenger.ipa",
+  "icon": "files/img/1793589885_icon.png",
+  "shots": []
  }
 ]
