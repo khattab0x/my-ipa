@@ -148,5 +148,20 @@
   "icon": "files/img/1793578963_icon.png",
   "shots": [],
   "orient": "n"
+ },
+ {
+  "n": "Filza Mod",
+  "c": "o",
+  "v": "",
+  "ver": "v4.0",
+  "co": "#7a3fd1",
+  "mb": 16.06,
+  "d": {
+   "ar": "تطبيق Filza Mod.",
+   "en": "Filza Mod app."
+  },
+  "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/1793589574_Filza_Mod__1.0.2_.ipa",
+  "icon": "files/img/1793589576_icon.png",
+  "shots": []
  }
 ]
