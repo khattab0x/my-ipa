@@ -178,6 +178,7 @@
   },
   "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/1793589883_Messenger.ipa",
   "icon": "files/img/1793589885_icon.png",
-  "shots": []
+  "shots": [],
+  "orient": "n"
  }
 ]
