@@ -195,5 +195,20 @@
   "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/TikDog_b_2.ipa",
   "icon": "files/img/1794220265_icon.png",
   "shots": []
+ },
+ {
+  "n": "ARMSX2 iOS",
+  "c": "o",
+  "v": "",
+  "ver": "v2.5.2",
+  "co": "#3a5a8c",
+  "mb": 25.2,
+  "d": {
+   "ar": "تطبيق ARMSX2 iOS.",
+   "en": "ARMSX2 iOS app."
+  },
+  "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/ARMSX2-iOS-2.5.2.ipa",
+  "icon": "files/img/1794224587_icon.png",
+  "shots": []
  }
 ]
