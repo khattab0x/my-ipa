@@ -226,5 +226,20 @@
   "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/default.ipa",
   "icon": "files/img/1794224880_icon.png",
   "shots": []
+ },
+ {
+  "n": "XeniOS",
+  "c": "o",
+  "v": "",
+  "ver": "v2.3.1",
+  "co": "#d92f3a",
+  "mb": 46.88,
+  "d": {
+   "ar": "تطبيق XeniOS.",
+   "en": "XeniOS app."
+  },
+  "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/XeniOS__2.3.1_.ipa",
+  "icon": "files/img/1794225022_icon.png",
+  "shots": []
  }
 ]
