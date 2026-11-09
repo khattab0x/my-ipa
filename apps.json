@@ -271,6 +271,7 @@
   },
   "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/MiniWatts__1.6_.ipa",
   "icon": "files/img/1794225346_icon.png",
-  "shots": []
+  "shots": [],
+  "orient": "n"
  }
 ]
