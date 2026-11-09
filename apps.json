@@ -209,6 +209,7 @@
   },
   "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/ARMSX2-iOS-2.5.2.ipa",
   "icon": "files/img/1794224587_icon.png",
-  "shots": []
+  "shots": [],
+  "orient": "n"
  }
 ]
