@@ -257,5 +257,20 @@
   "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/AirBeep__2.5.2_.ipa",
   "icon": "files/img/1794225249_icon.png",
   "shots": []
+ },
+ {
+  "n": "MiniWatts",
+  "c": "o",
+  "v": "",
+  "ver": "v1.6.0",
+  "co": "#d92f3a",
+  "mb": 3.18,
+  "d": {
+   "ar": "تطبيق MiniWatts.",
+   "en": "MiniWatts app."
+  },
+  "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/MiniWatts__1.6_.ipa",
+  "icon": "files/img/1794225346_icon.png",
+  "shots": []
  }
 ]
