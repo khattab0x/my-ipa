@@ -240,6 +240,7 @@
   },
   "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/XeniOS__2.3.1_.ipa",
   "icon": "files/img/1794225022_icon.png",
-  "shots": []
+  "shots": [],
+  "orient": "n"
  }
 ]
