@@ -256,7 +256,8 @@
   },
   "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/AirBeep__2.5.2_.ipa",
   "icon": "files/img/1794225249_icon.png",
-  "shots": []
+  "shots": [],
+  "orient": "n"
  },
  {
   "n": "MiniWatts",
