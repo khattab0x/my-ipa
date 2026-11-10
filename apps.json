@@ -274,5 +274,20 @@
   "icon": "files/img/1794225346_icon.png",
   "shots": [],
   "orient": "n"
+ },
+ {
+  "n": "Erosion",
+  "c": "o",
+  "v": "",
+  "ver": "v0.3",
+  "co": "#14bf96",
+  "mb": 2.37,
+  "d": {
+   "ar": "تطبيق Erosion.",
+   "en": "Erosion app."
+  },
+  "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/Erosion_v0.3_IPA_2.ipa",
+  "icon": "files/img/1794269179_icon.png",
+  "shots": []
  }
 ]
