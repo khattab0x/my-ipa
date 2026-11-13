@@ -294,5 +294,20 @@
    "files/img/shots/1794584726_9e5a.jpg"
   ],
   "orient": "v"
+ },
+ {
+  "n": "WQ Files",
+  "c": "o",
+  "v": "",
+  "ver": "v0.8",
+  "co": "#7d2ae8",
+  "mb": 0.36,
+  "d": {
+   "ar": "تطبيق WQ Files.",
+   "en": "WQ Files app."
+  },
+  "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/WQFiles_2.ipa",
+  "icon": "files/img/1794591504_icon.png",
+  "shots": []
  }
 ]
