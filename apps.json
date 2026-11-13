@@ -288,6 +288,9 @@
   },
   "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/Erosion_v0.3_IPA_2.ipa",
   "icon": "files/img/1794269179_icon.png",
-  "shots": []
+  "shots": [
+   "files/img/1794575815_39ff.jpg"
+  ],
+  "orient": "v"
  }
 ]
