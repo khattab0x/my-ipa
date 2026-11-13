@@ -309,5 +309,20 @@
   "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/WQFiles_2.ipa",
   "icon": "files/img/1794591504_icon.png",
   "shots": []
+ },
+ {
+  "n": "Spotify",
+  "c": "s",
+  "v": "Spotify",
+  "ver": "v9.1.90",
+  "co": "#d92f3a",
+  "mb": 132.72,
+  "d": {
+   "ar": "With the Spotify app, you can explore an extensive library of music and podcasts for free. Curate the best playlists and stream millions of free songs, albums, and original podcasts on your phone or t",
+   "en": "With the Spotify app, you can explore an extensive library of music and podcasts for free. Curate the best playlists and stream millions of free songs, albums, and original podcasts on your phone or t"
+  },
+  "file": "https://github.com/khattab0x/my-ipa/releases/download/ipas/Spotify_Vitrine__9.1.90_.ipa",
+  "icon": "files/img/1794591776_icon.png",
+  "shots": []
  }
 ]
